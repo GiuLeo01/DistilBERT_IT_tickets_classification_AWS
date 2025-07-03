@@ -1,6 +1,6 @@
 # DistilBERT IT Tickets Classifier Training with Amazon Sagemaker Studio
 
-This project trains a text classification model to automatically categorize IT service tickets into different topic groups. The model uses DistilBERT as the base architecture and is trained using PyTorch Lightning on Amazon SageMaker Studio.
+This project trains a DistilBERT model to categorize IT service tickets into different topic groups. The model is trained using PyTorch Lightning on Amazon SageMaker Studio, on a "ml.g6.xlarge" istance.
 
 **The main training logic is in "train_script.py"**
 
